@@ -30,6 +30,8 @@ As of now, this is some installation available:
 bower install gentelella --save
 ```
 
+## add code scan
+
 **npm**
 
 ```
